@@ -27,7 +27,6 @@
 ```
 SPAMSNIFFER/
 │
-├── data/                 # Datasets used for training
 ├── models/               # ML model and vectorizer
 ├── logs/                 # Classification and email scan logs
 ├── utils/
