@@ -1,0 +1,6 @@
+joblib
+numpy
+beautifulsoup4
+imaplib2
+colorama
+pyfiglet
