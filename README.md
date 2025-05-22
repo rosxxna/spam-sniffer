@@ -43,7 +43,7 @@ SPAMSNIFFER/
 ## ⚙️ Installation
 
 ```bash
-git clone https://github.com/rosxxna/spamsniffer.git
+git clone https://github.com/rosxxna/spam-sniffer.git
 cd spamsniffer
 pip install -r requirements.txt
 python3 spam_sniffer.py
